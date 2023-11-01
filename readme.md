@@ -2,7 +2,7 @@
 
 - Sou do Rio de Janeiro - Rj
 
-* Trabalho como Gerente de Restaurante
+* Trabalho como Supervisor de Restaurante
 
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Aqui você encontrará uma variedade de projetos que refletem minha jornada no mundo da programação.
 
